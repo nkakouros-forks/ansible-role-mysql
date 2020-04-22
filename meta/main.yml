@@ -28,3 +28,6 @@ galaxy_info:
     - mariadb
     - db
     - sql
+
+collections:
+  - community.general
